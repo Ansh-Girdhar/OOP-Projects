@@ -1,0 +1,14 @@
+
+/*
+    Name   : Ansh Girdhar
+    ID     : 15255204
+    Email  : agirdhar@myseneca.ca
+    Section: ZCC
+*/
+
+In this project i have used almost everything i learned in oop345. This project will be very good for my portfolio. I am going to upload it to my github after this semester.  
+
+I faced some difficulties as some of the concepts i just used in the workshop but it helped me complete this project.
+
+
+
